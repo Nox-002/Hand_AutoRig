@@ -5,7 +5,7 @@ If you encounter any problem you can contact me to charlie.coucoureux@gmail.com
 
 Dont hesitate to send me your future rig you'll made with this setup !
 
-
+Here is the video link to the tutorial : https://vimeo.com/1029667649
 
 
 When you run the autorig you have to follow this steps to integrate it to your rig 
